@@ -146,6 +146,17 @@ training/
 
 I used the following command:
 ```
-python exporter_main_v2.py --trained_checkpoint_dir=training --output_directory=modelim --pipeline_config_path=training/config.config
+python model_main_tf2.py --pipeline_config_path=training/config.config--model_dir=training --alsologtostderr
+
 ```
+
+```
+### TENSORBORAD
+
+TensorBoard provides the visualization
+
+tensorboard — logdir=training/
+
+```
+![image](https://user-images.githubusercontent.com/89857618/191951862-7b0e6bc6-9e91-43b9-8ac8-a28a19610b6f.png)
 
