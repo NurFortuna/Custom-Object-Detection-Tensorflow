@@ -150,11 +150,12 @@ python model_main_tf2.py --pipeline_config_path=training/config.config--model_di
 
 ```
 
-```
+
 ### TENSORBORAD
 
 TensorBoard provides the visualization
 
+```
 tensorboard — logdir=training/
 
 ```
