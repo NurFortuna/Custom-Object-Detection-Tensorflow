@@ -159,5 +159,5 @@ TensorBoard provides the visualization
 tensorboard — logdir=training/
 
 ```
-![image](https://user-images.githubusercontent.com/89857618/191951862-7b0e6bc6-9e91-43b9-8ac8-a28a19610b6f.png)
+
 
